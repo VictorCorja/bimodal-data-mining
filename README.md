@@ -1,6 +1,6 @@
 Bimodal Analysis of Key Data and Semantics
 
-This research was aimed at combining these individual methodologies into a consolidated model that takes in data in both audio and text format. For each desired function, models were selected and ranked by adherence to criteria which determined their applicability to the desired product. Upon selection of the models, they were implemented through libraries into a consolidated program, which took as an input a combinatorial text and audio dataset, and provided a report of the analysis resulting from data mining. The program was tested using data from TED talks, performed text mining and semantic analysis, and provided a structured output of the generated statistics.
+<div style="text-align: right">This research was aimed at combining these individual methodologies into a consolidated model that takes in data in both audio and text format. For each desired function, models were selected and ranked by adherence to criteria which determined their applicability to the desired product. Upon selection of the models, they were implemented through libraries into a consolidated program, which took as an input a combinatorial text and audio dataset, and provided a report of the analysis resulting from data mining. The program was tested using data from TED talks, performed text mining and semantic analysis, and provided a structured output of the generated statistics.</div>
 
 This work was based on code in the following repositories:
 <ul>
